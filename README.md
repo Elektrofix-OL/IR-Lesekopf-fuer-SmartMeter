@@ -8,7 +8,7 @@ Ich hatte noch ein kleines Display herumliegen und habe es dazu genutz, das dies
 
 Einen Anleitung zum Erstellen der Software hat Mattihas Kleine erstellt https://www.youtube.com/watch?v=s6qQs4FN9B0
 
-Leider komme ich erst jetzt dazu, die Sache ins Netz zu stellen.
+Leider komme ich erst jetzt dazu, die Sache ins Netz zu stellen. Schaltplan und STL-Datei folgen noch.
 
 # Gehäuse-Bilder
 ![](https://github.com/Elektrofix-OL/IR-Lesekopf-fuer-SmartMeter-/blob/main/Fotos/IMG_4029.JPG)
