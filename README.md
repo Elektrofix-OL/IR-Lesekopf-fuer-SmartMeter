@@ -13,3 +13,12 @@ Leider komme ich erst jetzt dazu, die Sache ins Netz zu stellen. Schaltplan und 
 # Gehäuse-Bilder
 ![](https://github.com/Elektrofix-OL/IR-Lesekopf-fuer-SmartMeter-/blob/main/Fotos/IMG_4029.JPG)
 ![](https://github.com/Elektrofix-OL/IR-Lesekopf-fuer-SmartMeter-/blob/main/Fotos/IMG_4030.JPG)
+
+# Lizenz
+Copyright (c) 2021 Elektrofix
+
+Jeder Mensch darf das Projekt benutzen, kopieren und verändern. Der Verkauf ist jedoch verboten und auch nach der Veränderung dürfen auch Tele des Projekten nicht veräußert werden. Ich habt es kostenlos bekommt, also müsst ihr die Änderungen auch Kostenlos weitergeben!
+
+Der obige Urheberrechtshinweis und dieser Genehmigungshinweis müssen in alle Kopien oder wesentlichen Teile der Software aufgenommen werden.
+
+Alles macht ihr aus eigenes Risiko, Haftung und Gewährleistung über nehme ich keine.
