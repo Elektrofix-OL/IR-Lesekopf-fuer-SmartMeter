@@ -12,8 +12,7 @@ Einen Anleitung zum Erstellen der Software hat Mattihas Kleine erstellt https://
 Leider komme ich erst jetzt dazu, die Sache ins Netz zu stellen. Schaltplan und STL-Datei folgen noch.
 
 # Gehäuse-Bilder
-![](https://github.com/Elektrofix-OL/IR-Lesekopf-fuer-SmartMeter-/blob/main/Fotos/Back.JPG)
-![](https://github.com/Elektrofix-OL/IR-Lesekopf-fuer-SmartMeter-/blob/main/Fotos/Front.JPG)
+![](https://github.com/Elektrofix-OL/IR-Lesekopf-fuer-SmartMeter-/blob/main/Fotos/Back.JPG)![](https://github.com/Elektrofix-OL/IR-Lesekopf-fuer-SmartMeter-/blob/main/Fotos/Front.JPG)
 
 # Lizenz
 Copyright (c) 2021 Elektrofix
