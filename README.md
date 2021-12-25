@@ -3,17 +3,13 @@ kompackter DO-Leser über WLAN mit Wemos-D1-mini
 
 Im Januar'21 hatte wollte ich einen SmartMeter auslesen, jedoch ohne Eingriff in die Verteilung, daher entschied ich mich die IR-Dioden und Fototransisor direkt an die Wemos anzuschließen und alles in einem Gehäuse unterzubringen.
 
-Leider komme ich erst jetzt dazu, die Sache ins Netz zu stellen. Schaltplan und STL-Datei folgen noch.
-
 # Die Schaltung
+![](https://github.com/Elektrofix-OL/IR-Lesekopf-fuer-SmartMeter-/blob/main/Eagle/sch.gif)
 Im Grunde ist es ganz einfach, Der Fototransitor (SFH 229) wird zwischen RX und GND angeschlossen und bekommt einen Pull-Up Widerstand von 1200 Ohm nach 3,3V. Die IR-LED mit 880nm Wellelänge wird mit Vorwiderstand 180 Ohm direkt zwischen 3,3V und TX angeschlossen.
-
-![](https://github.com/Elektrofix-OL/IR-Lesekopf-fuer-SmartMeter-/blob/main/Fotos/Shild-Back.JPG)![](https://github.com/Elektrofix-OL/IR-Lesekopf-fuer-SmartMeter-/blob/main/Fotos/Shild-Front.JPG)
 Der Kondensator 10uF wird zwischen 3.3V und GND geschaltet und dient nur der Stüzung der Versorgungsspannung, wenn Daten übertragen werden.
 
 # Gehäuse-Bilder
 ![](https://github.com/Elektrofix-OL/IR-Lesekopf-fuer-SmartMeter-/blob/main/Fotos/Back.JPG)
-![](https://github.com/Elektrofix-OL/IR-Lesekopf-fuer-SmartMeter-/blob/main/Fotos/Front.JPG)
 Ich hatte noch ein kleines Display herumliegen und habe es dazu genutz, das diese mir die IP-Adresse anzeigt, so das ich den Leser auch im Netz ansprechen kann.
 
 # Software
