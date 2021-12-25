@@ -15,7 +15,7 @@ Ich hatte noch ein kleines Display herumliegen und habe es dazu genutz, das dies
 # Software
 Die Herausforderung war, eine Übertragung über das Internet über eine Freifunkverbindung zu realisieren. Mit espEasy geht es nur im gleichen netztwerk, daher habe ich mich für Tasmota-SML entschieden.
 
-Einen Anleitung zum Erstellen der Software hat Mattihas Kleine erstellt https://www.youtube.com/watch?v=s6qQs4FN9B0
+Leider Kann ich Euch die Datei nicht zur Verfügung stellen, da dort meine Daten fest hinterlegt sind. Einen Anleitung zum Erstellen der Software hat Mattihas Kleine erstellt https://www.youtube.com/watch?v=s6qQs4FN9B0
 
 # Lizenz
 Copyright (c) 2021 Elektrofix
