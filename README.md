@@ -1,5 +1,5 @@
 # IR Lesekopf für SmartMeter
-kompackter DO-Leser über WLAN mit Wemos-D1-mini
+kompakter DO-Leser über WLAN mit Wemos-D1-mini
 
 Im Januar'21 wollte ich einen SmartMeter auslesen, jedoch ohne Eingriff in die Verteilung, daher entschied ich mich die IR-Diode und Fototransisor direkt an die Wemos anzuschließen und alles in einem Gehäuse unterzubringen.
 
