@@ -11,7 +11,7 @@ Der Kondensator 10uF wird zwischen 3.3V und GND geschaltet und dient nur der St�
 # Gehäuse-Bilder
 ![](https://github.com/Elektrofix-OL/IR-Lesekopf-fuer-SmartMeter-/blob/main/Fotos/Back.JPG)
 Ich hatte noch ein kleines Display herumliegen und habe es dazu genutz, das diese mir die IP-Adresse anzeigt, so das ich den Leser auch im Netz ansprechen kann.
-
+Die Dateien für einen 3D-Drucker findet ihr unter https://www.thingiverse.com/thing:5175959
 # Software
 Die Herausforderung war, eine Übertragung über das Internet über eine Freifunkverbindung zu realisieren. Mit espEasy geht es nur im gleichen netztwerk, daher habe ich mich für Tasmota-SML entschieden.
 
