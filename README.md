@@ -17,6 +17,8 @@ Die Herausforderung war, eine Übertragung über das Internet über eine Freifun
 
 Leider Kann ich Euch die Datei nicht zur Verfügung stellen, da dort meine Daten fest hinterlegt sind. Einen Anleitung zum Erstellen der Software hat Mattihas Kleine erstellt https://www.youtube.com/watch?v=s6qQs4FN9B0
 
+Ihr findet hier eine Textdatei mit dem Skript für Tasmota. Es bewirkt nicht nur das Auslesen, sondert gibt auch in den ersten 30 Sec. auf dem Display die IP-Adresse, SSID und RSSI aus
+
 # Lizenz
 Copyright (c) 2021 Elektrofix
 
