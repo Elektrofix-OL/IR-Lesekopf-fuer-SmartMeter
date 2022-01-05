@@ -17,7 +17,7 @@ ssid=Wifi#SSID
 rssi=Wifi#RSSI
 dt [c1l1f3]%ssid%
 dt [c1l2f3]%topic%
-dt [c1l3f3]%rssi%~20~20~20~20~20~20~20%timer1%
+dt [c1l3f3]%rssi%~20~20~20~20~20~20%timer1%
 dt [x0y27f1]%st(lip . 1)%.%st(lip . 2)%.
 dt [x0y39f1]~20~20%st(lip . 3)%.%st(lip . 4)%
 if timer1<1
