@@ -1,0 +1,35 @@
+>D
+ssid=""
+rssi=0
+t:timer1=30  (t:means countdown timer)
+
+>B
+=>sensor53 r
+dt [zdO]
+
+; stop timer after expired
+if timer1==0
+then timer1=-1
+endif
+
+>T
+ssid=Wifi#SSID
+rssi=Wifi#RSSI
+dt [c1l1f3]%ssid%
+dt [c1l2f3]%topic%
+dt [c1l3f3]%rssi%~20~20~20~20~20~20~20%timer1%
+dt [x0y27f1]%st(lip . 1)%.%st(lip . 2)%.
+dt [x0y39f1]~20~20%st(lip . 3)%.%st(lip . 4)%
+if timer1<1
+then dt [zdo]
+endif
+
+>M 1
++1,3,o,0,9600,OBIS 
+1,1-0:1.8.0*255(@1,Zählerstand,kWh,Total_in,4
+1,1-0:1.7.0*255(@1,Summe L1-L2-L3,kW,Total_out,4
+1,1-0:21.7.0*255(@1,Summe L1,kW,Total_out,4
+1,1-0:41.7.0*255(@1,Summe L2,kW,Total_out,4
+1,1-0:61.7.0*255(@1,Summe L3,kW,Total_out,4
+1,1-0:0.0.0*255(@#),Meter Nr,, Meter_number,0
+#
