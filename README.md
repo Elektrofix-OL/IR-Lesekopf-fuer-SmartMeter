@@ -17,7 +17,7 @@ Die Herausforderung war, eine Übertragung über das Internet über eine Freifun
 
 Leider Kann ich Euch die Datei nicht zur Verfügung stellen, da dort meine Daten fest hinterlegt sind. Einen Anleitung zum Erstellen der Software hat Mattihas Kleine erstellt https://www.youtube.com/watch?v=s6qQs4FN9B0
 
-Ihr findet hier eine Textdatei mit dem Skript für Tasmota. Es bewirkt nicht nur das Auslesen, sondert gibt auch in den ersten 30 Sec. auf dem Display die IP-Adresse, SSID und RSSI aus
+Ihr findet hier eine Textdatei mit dem Skript für Tasmota. Es bewirkt nicht nur das Auslesen, sondert gibt auch in den ersten 30 Sec. auf dem Display die IP-Adresse, SSID und RSSI aus. Die Tasmota-SML-Display.bin ist eine Datei zum Flashen auf den ESP8266. 
 
 # Lizenz
 Copyright (c) 2021 Elektrofix
@@ -26,4 +26,4 @@ Jeder Mensch darf das Projekt benutzen, kopieren und verändern. Der Verkauf ist
 
 Der obige Urheberrechtshinweis und dieser Genehmigungshinweis müssen in alle Kopien oder wesentlichen Teile der Software aufgenommen werden.
 
-Alles macht ihr aus eigenes Risiko, Haftung und Gewährleistung über nehme ich keine.
+Alles macht ihr auf eigenes Risiko, Haftung und Gewährleistung über nehme ich keine.
